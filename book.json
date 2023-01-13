@@ -1,0 +1,29 @@
+{
+  "plugins": [
+    "theme-darkblue",
+    "simple-page-toc",
+    "disqus",
+    "back-to-top-button",
+    "edit-link",
+    "github"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "isthis"
+    },
+    "simple-page-toc": {
+      "maxDepth": 2,
+      "skipFirstH1": true
+    },
+    "edit-link": {
+      "base": "https://github.com/IsthisLee/gitbook-comment/edit/main",
+      "label": "Request Edit"
+    },
+    "github": {
+      "url": "https://github.com/IsthisLee/gitbook-coment"
+    }
+  },
+  "variables": {
+    "BASE_URL": "https://isthislee.github.io/test"
+  }
+}
