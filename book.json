@@ -8,9 +8,6 @@
     "github"
   ],
   "pluginsConfig": {
-    "theme-darkblue": {
-      "dark": true
-    },
     "disqus": {
       "shortName": "isthis"
     },
