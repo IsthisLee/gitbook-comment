@@ -1,6 +1,10 @@
 {
   "plugins": [
     "theme-darkblue",
+    "etoc",
+    "splitter",
+    "expandable-chapters-small",
+    "toggle-chapters",
     "simple-page-toc",
     "disqus",
     "back-to-top-button",
@@ -20,10 +24,13 @@
       "label": "Request Edit"
     },
     "github": {
-      "url": "https://github.com/IsthisLee/gitbook-coment"
+      "url": "https://github.com/IsthisLee/gitbook-comment"
     }
   },
   "variables": {
     "BASE_URL": "https://isthislee.github.io/gitbook-comment"
+  },
+  "structure": {
+    "readme": "README.md"
   }
 }
